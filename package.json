@@ -1,0 +1,9 @@
+{
+  "name": "find-replace-webpack-plugin",
+  "version": "1.0.0",
+  "description": "Simple but powerful webpack plugin to find and replace strings in your files",
+  "main": "index.js",
+  "repository": "git@github.com:luwes/find-replace-webpack-plugin.git",
+  "author": "Wesley Luyten <hi@wesleyluyten.com>",
+  "license": "MIT"
+}
