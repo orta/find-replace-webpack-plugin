@@ -1,6 +1,12 @@
 # find-replace-webpack-plugin
 This plugin makes it easy to find and replace strings in your files. It exposes the full stats object from the webpack build in the replace function so you can easily add your new chunkhashes for example.
 
+## Install
+
+```
+npm i --save-dev find-replace-webpack-plugin
+```
+
 ## Usage example
 
 ```
