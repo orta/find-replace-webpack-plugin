@@ -3,13 +3,13 @@ This plugin makes it easy to find and replace strings in your files. It exposes 
 
 ## Install
 
-```
+```bash
 npm i --save-dev find-replace-webpack-plugin
 ```
 
 ## Usage example
 
-```
+```js
 var webpack = require('webpack');
 var path = require('path');
 var _ = require('lodash');
